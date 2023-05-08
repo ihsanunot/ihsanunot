@@ -40,10 +40,13 @@
 - 💞️ I’m looking to collaborate on IoT & UI/UX Design
 - 📫 How to reach me just use auto jetpack to Indonesia
 
+<br>
+
 **Credits for :**
 
 - Codepolitan
 - BuildwithAngga
+- PetaniKode
 - Praxis Academy
 - Etc.
           
