@@ -16,7 +16,7 @@
 
 ### <p align="center"> Tech Stacks</p>
   
-<div>
+<div align="center">
   <img width=60 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"</img>
   <img width=60 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"</img>
   <img width=60 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"</img>
