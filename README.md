@@ -21,7 +21,6 @@
   <img width=60 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"</img>
   <img width=60 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"</img>
   <img width=60 src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg"</img>
-  <img width=60 src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg"</img>
   <img width=60 src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"</img>
   <img width=60 src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"</img>
   <img width=60 src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"</img>
