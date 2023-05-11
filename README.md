@@ -30,7 +30,10 @@
   <img width=60 src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"</img>
 </div>
 
-<br><br><br><br>
+<br><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihsanunot)](https://github.com/anuraghazra/github-readme-stats)
+
+<br><br><br>
 
 - 👋 Hi, I’m @ihsanunot
 - 🌱 I’m currently learning Flutter & Python.
