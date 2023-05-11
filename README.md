@@ -33,7 +33,7 @@
 <br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihsanunot)](https://github.com/anuraghazra/github-readme-stats)
 
-<br><br><br>
+<br><br>
 
 - 👋 Hi, I’m @ihsanunot
 - 🌱 I’m currently learning Flutter & Python.
