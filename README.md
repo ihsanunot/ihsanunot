@@ -34,25 +34,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihsanunot)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
-
-- 👋 Hi, I’m @ihsanunot
-- 🌱 I’m currently learning Flutter & Python.
-- 👀 I’m interested in Web Apps, Mobile Apps.
-- 💞️ I’m looking to collaborate on IoT & UI/UX Design
-- 📫 How to reach me just use auto jetpack to Indonesia
-
-<br>
-
-**Credits for :**
-
-- Codepolitan
-- BuildwithAngga
-- PetaniKode
-- Praxis Academy
-- ProgrammerZamanNow
-- Etc.
-          
-<!---
-ihsanunot/ihsanunot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
