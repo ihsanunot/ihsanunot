@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <p align="center"><img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" alt="banner-satu" width="125px"></p>
 
-<h1 align="center">Hello World! Ihsan  here!</h1>
+<h1 align="center">Hello World! Spam here!</h1>
 
 <span>
   <div align="center">
