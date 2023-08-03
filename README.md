@@ -29,32 +29,9 @@
   <img width=60 src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"</img>
 </div>
 
-
-<style>
-.center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  font-size: 24px;
-}
-
-.btn-1{
-  width: 300px;
-  height: 200px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-  
-</style>
-
-<div class="center">
-  <div class="btn-1">
-    <p>Button 1: </p>
-    <a href="https://trakteer.id/ihsanunot/tip?open=true"><span>Donate Me</span></a>
-  </div>
+<div align="center">
+  <a href="https://trakteer.id/ihsanunot/tip?open=true"><span>Donate Me</span></a>
+</div>
 
 
 <br><br>
