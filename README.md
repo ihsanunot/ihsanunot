@@ -32,12 +32,6 @@
 [//] Diatas yang techstack, dibawah tombol donate
 
 <style>
-  body {
-  background: #ffffff;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  color: #c2c2c2;
-}
-
 .center {
   display: flex;
   justify-content: center;
@@ -72,8 +66,6 @@ span {
   position: relative;
   z-index: 3;
 }
-
-
 
 .btn-1 a::before {
   content: "";
