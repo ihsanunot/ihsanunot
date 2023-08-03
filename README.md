@@ -47,59 +47,7 @@
   align-items: center;
   flex-direction: column;
 }
-
-
-.btn-1 a
-{
-  text-decoration: none;
-  border: 2px solid #010100;
-  padding: 15px;
-  color: #000;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  position: relative;
-  display: inline-block;
-}
-
-span {
-  position: relative;
-  z-index: 3;
-}
-
-.btn-1 a::before {
-  content: "";
-  position: absolute;
-  top: 5px;
-  left: -2px;
-  width: calc(100% + 6px);
-  /*100% plus double the times left values*/
-  height: calc(100% - 10px);
-  background-color: #ffffff;
-  transition: all 0.5s ease-in-out;
-  transform: scaleY(1);
-}
-
-.btn-1 a:hover::before
- {
-  transform: scaleY(0);
-}
-
-.btn-1 a::after {
-  content: "";
-  position: absolute;
-  left: 5px;
-  top: -5px;
-  width: calc(100% - 10px);
-  /*100% plus double the times left values*/
-  height: calc(100% + 10px);
-  background-color: #ffffff;
-  transition: all 0.5s ease-in-out;
-  transform: scaleX(1);
-}
-
-.btn-1 a:hover::after {
-  transform: scaleX(0);
-}
+  
 </style>
 
 <div class="center">
@@ -107,7 +55,6 @@ span {
     <p>Button 1: </p>
     <a href="https://trakteer.id/ihsanunot/tip?open=true"><span>Donate Me</span></a>
   </div>
-
 
 
 <br><br>
