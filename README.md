@@ -28,9 +28,11 @@
   <img width=60 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"</img>
   <img width=60 src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"</img>
 </div>
+<br><br>
+<br><br>
 
 <div align="center">
-  <a href="https://trakteer.id/ihsanunot/tip?open=true" style="margin-top: 20px;"><span>Donate Me</span></a>
+  <a href="https://trakteer.id/ihsanunot/tip?open=true"><span>Donate Me</span></a>
 </div>
 
 
