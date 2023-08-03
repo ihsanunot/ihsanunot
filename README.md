@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <a href="https://trakteer.id/ihsanunot/tip?open=true"><span>Donate Me</span></a>
+  <a href="https://trakteer.id/ihsanunot/tip?open=true" style="padding-top: 20px;"><span>Donate Me</span></a>
 </div>
 
 
