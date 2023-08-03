@@ -29,7 +29,6 @@
   <img width=60 src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"</img>
 </div>
 
-[//] Diatas yang techstack, dibawah tombol donate
 
 <style>
 .center {
