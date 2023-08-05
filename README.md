@@ -32,6 +32,7 @@
 <br><br>
 
 <div align="center">
+  <a href="[https://twitter.com/ihsanunot](https://trakteer.id/ihsanunot/tip?open=true)"><span>Donate Me</span></a>
   <a href="https://twitter.com/ihsanunot"><span>Contact Me</span></a>
 </div>
 
