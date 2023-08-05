@@ -31,7 +31,8 @@
 <br><br>
 <br><br>
 
+Please donate me 🙏
+Global Donation : https://ko-fi.com/ihsanunot
+Indonesia Donation : https://trakteer.id/ihsanunot/tip?open=true
 
-github: [octocat, surftocat]
-patreon: octocat
-ko_fi: ihsanunot
+Thank you very much for you help 🙏
