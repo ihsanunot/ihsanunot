@@ -32,6 +32,7 @@
 <br><br>
 
 <div align="center">
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'T6T6NWV3I');kofiwidget2.draw();</script> 
   <a href="[https://twitter.com/ihsanunot](https://trakteer.id/ihsanunot/tip?open=true)"><span>Donate Me</span></a>
   <a href="https://twitter.com/ihsanunot"><span>Contact Me</span></a>
 </div>
