@@ -33,8 +33,9 @@
 
 <div align="center">
 Please donate me 🙏
+  <br>
 Global Donation : https://ko-fi.com/ihsanunot
 <br>
 Indonesia Donation : https://trakteer.id/ihsanunot/tip?open=true
-
+<br>
 Thank you very much for you help 🙏 </div>
