@@ -32,8 +32,6 @@
 <br><br>
 
 <div align="center">
-  <a href="https://paypal.me/ihsandroid"><span>Via Paypal</span></a>
-  <br>
   <a href="https://twitter.com/ihsanunot"><span>Contact Me</span></a>
 </div>
 
