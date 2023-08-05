@@ -32,9 +32,6 @@
 <br><br>
 
 
-  ko_fi: ihsanunot
-
-
-
-<br><br>
-
+github: [octocat, surftocat]
+patreon: octocat
+ko_fi: ihsanunot
