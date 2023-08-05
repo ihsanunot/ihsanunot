@@ -34,8 +34,7 @@
 <div align="center">
   <a href='' target='_blank'><img height='36' style='border:0px;height:36px;' ' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
   <img width=60 href='https://ko-fi.com/T6T6NWV3I' height='36' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3</img>
-  <a href="[https://twitter.com/ihsanunot](https://trakteer.id/ihsanunot/tip?open=true)"><span>Donate Me</span></a>
-  <a href="https://twitter.com/ihsanunot"><span>Contact Me</span></a>
+  ko_fi: ihsanunot
 </div>
 
 
