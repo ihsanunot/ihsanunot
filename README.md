@@ -32,7 +32,6 @@
 <br><br>
 
 <div align="center">
-  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](todayspirit@gmail.com)
   <a href="https://trakteer.id/ihsanunot/tip?open=true"><span>Donate Me</span></a>
 </div>
 
