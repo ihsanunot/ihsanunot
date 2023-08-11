@@ -31,6 +31,8 @@
 <br><br>
 <br><br>
 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'T6T6NWV3I');kofiwidget2.draw();</script> 
+
 <div align="center">
 Please donate me 🙏
   <br>
